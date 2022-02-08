@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER STYLES START */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +51,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* HEADER STYLES END */
 
 .hero {
     height: 800px;
@@ -188,6 +192,8 @@ p {
     font-size: 36px;
 }
 
+/* FOOTER STYLE START */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +204,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* FOOTER STYLE END */
